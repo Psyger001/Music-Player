@@ -1,4 +1,5 @@
 # Music-Player with JavaScript
+For tutorial: https://www.youtube.com/watch?v=oscPp3KghS8&t=57s
 
 Function
 1) Random Song
